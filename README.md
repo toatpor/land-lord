@@ -1,3 +1,3 @@
-#load oasis
+#lord oasis
 
 main project
